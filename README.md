@@ -132,4 +132,16 @@ This project demonstrates the complete workflow of developing a professional Pow
 
 The dashboard was designed with a focus on usability, interactivity, and business-oriented storytelling to support data-driven decision-making.
 
----
+---## Dashboard Preview
+
+### Sales Performance Overview
+![Sales Performance Overview](Images/sales_performance_overview.PNG)
+
+### Product Performance & Profitability Analysis
+![Product Performance & Profitability Analysis](Images/product_performance_&_profitability_analysis.PNG)
+
+### Geographic Sales & Profit Analysis
+![Geographic Sales & Profit Analysis](Images/Geographic_sales_profit_analysis.PNG)
+
+### Profitability Risk Analysis
+![Profitability Risk Analysis](Images/profitability_risk_analysis.PNG)
